@@ -114,3 +114,12 @@ import foo from '..'; // where '..' → '../index.ts' (or similar)
 
 
 </details>
+
+
+## Feedback
+
+To provide feedback on existing codemods or request new ones open a GitHub issue in this repo. 
+
+## Contribution
+
+Feel free to open a PR in this repo to contribute your codemods for Node.js migrations.
